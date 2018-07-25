@@ -3,3 +3,4 @@ creating a new branch is quick AND simple.
 fix issue-101
 create new_dev
 issue1
+issue3
